@@ -1,0 +1,44 @@
+body{
+    border:15px solid brown;
+    background-color: cadetblue;
+    text-align: center;
+    color: black;
+    margin:0px;
+    padding:20px;
+}
+h1{
+    color:darkgreen;
+    word-spacing: 5px;
+}
+h2{
+    color:rgb(2, 2, 68);
+}
+h4{
+   
+    text-align: center;
+}
+img{
+
+    border: 0.5px solid yellowgreen;
+    margin: 10px;
+}
+p{
+    text-align: justify;
+    /*word-spacing: 5px;*/
+}
+input{
+    height:33px;
+    width:280px;
+    border: 2px solid yellowgreen;
+    border-radius: 20px;
+    padding:10px;
+}
+button{
+    height:45px;
+    width:110px;
+    border-radius: 10px;
+    color:white;
+    background-color:rgb(52, 20, 84) ;
+    font-size: 20px;
+    border: 2px solid yellowgreen;
+}
